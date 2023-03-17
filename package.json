@@ -25,7 +25,7 @@
     "@types/node": "^18.11.9",
     "@dxos/cli": "0.1.31",
     "typescript": "^4.8.4",
-    "vite": "4.0.4",
+    "vite": "4.2.0",
     "@types/react": "^18.0.21",
     "@types/react-dom": "^18.0.6",
     "@vitejs/plugin-react": "^3.0.1",
@@ -42,10 +42,5 @@
     "@storybook/mdx2-csf": "^0.0.3",
     "@storybook/react": "7.0.0-beta.48",
     "@storybook/react-vite": "7.0.0-beta.48"
-  },
-  "pnpm": {
-    "patchedDependencies": {
-      "vite@4.0.4": "patches/vite@4.0.4.patch"
-    }
   }
 }
